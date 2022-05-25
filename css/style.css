@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.red{
+    background-color: hsla(318, 100%, 50%, 0.589);
+    height: 344px;
+    color: aliceblue;
+}
+.green{
+    background-color: green;
+    color: white;
+}
